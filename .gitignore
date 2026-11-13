@@ -1,0 +1,11 @@
+.obsidian/
+.trash/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+.venv/
